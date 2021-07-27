@@ -120,11 +120,6 @@ void loop()
     display.drawBitmap(xx, yy,frame8,64,64, 1);
     display.display();
     delay(tt);
-    
-    //display.clearDisplay();
-    //display.drawBitmap(xx, yy,frame9,64,64, 1);
-    //display.display();
-    //delay(tt);
   }
   while(touchRead(T0)<=50 || touchRead(T3)<=50)
   {
