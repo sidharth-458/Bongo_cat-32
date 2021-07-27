@@ -7,11 +7,11 @@ Items needed:
 - i2c oled board 128x64
 
 Connections:-\
-esp_32           -       oled\
-3.3                      VCC\
-GND                      GND\
-22                       SCL\
-21                       SDA
+*ESP-32-------*OLED\
+3.3----------VCC\
+GND----------GND\
+22-----------SCL\
+21-----------SDA
 
 Use esp_32 capacitive touch pins at  I04/D4 and IO15/D15
 Credits : Bongo cat gif from @pixelbunny 
