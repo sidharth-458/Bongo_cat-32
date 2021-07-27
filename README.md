@@ -7,7 +7,7 @@ Items needed:
 - i2c oled board 128x64
 
 Connections:-\
-*ESP-32-------*OLED\
+ESP-32-------OLED\
 3.3----------VCC\
 GND----------GND\
 22-----------SCL\
